@@ -1,3 +1,5 @@
+package Lesson1.Classwork;
+
 import lombok.*;
 import lombok.experimental.FieldDefaults;
 
