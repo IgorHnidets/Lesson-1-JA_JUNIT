@@ -1,6 +1,3 @@
-package Lesson1.Classwork;
-
-import Lesson1.Classwork.ArrayUtills;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.function.Executable;
 import org.junit.jupiter.params.ParameterizedTest;

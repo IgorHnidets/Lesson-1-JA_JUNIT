@@ -1,5 +1,3 @@
-package Lesson1.Classwork;
-
 public class ArrayUtills {
 
     public int findMax(int[] array) {
